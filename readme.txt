@@ -4,5 +4,4 @@ lsx
 lishaoxiong
 lsx
 lishaoxiong
-lsm
-lishaomeng
+lsm is lsx's sister
