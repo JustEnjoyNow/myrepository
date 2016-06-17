@@ -5,3 +5,4 @@ lishaoxiong
 lsx
 lishaoxiong
 lsm is lsx's sister
+Creating a new branch is quick.
